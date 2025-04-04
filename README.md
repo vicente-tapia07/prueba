@@ -1,3 +1,5 @@
 # prueba
 
-ola como estas
+(define (ola p q)
+  (list p q)
+)
